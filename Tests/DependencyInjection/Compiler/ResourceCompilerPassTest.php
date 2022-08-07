@@ -16,7 +16,7 @@ class ResourceCompilerPassTest extends TestCase
     /**
      * {@inheritdoc}
      */
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->compilerPass = new ResourceCompilerPass();
     }
