@@ -18,7 +18,7 @@ class ColorPickerBundleTest extends TestCase
     /**
      * {@inheritdoc}
      */
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->bundle = new ColorPickerBundle();
     }

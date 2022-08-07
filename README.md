@@ -1,6 +1,8 @@
 Color Picker Bundle
 ============
 
+This is a fork of https://github.com/kunicmarko20/ColorPickerBundle. It adds Symfony 5 compatibility.
+
 [![Build Status](https://travis-ci.org/kunicmarko20/ColorPickerBundle.svg?branch=master)](https://travis-ci.org/kunicmarko20/ColorPickerBundle)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/8a279415-4597-49d8-923a-34a3f4c315f1/mini.png)](https://insight.sensiolabs.com/projects/8a279415-4597-49d8-923a-34a3f4c315f1)
 [![StyleCI](https://styleci.io/repos/102910747/shield)](https://styleci.io/repos/102910747)
